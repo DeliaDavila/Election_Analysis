@@ -1,5 +1,7 @@
 # Election_Analysis
 Election results and Python skill building
-* Number of votes with percentage of total for each county in the precinct:
-    *nested list
+* Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
 
