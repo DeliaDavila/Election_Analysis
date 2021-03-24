@@ -57,24 +57,24 @@ The total votes cast in all three counties of the precinct: 369,711
 
 ###  Votes by County
 Overview of votes and percentage of total in each county of the precinct:
-    * Arapahoe: 24,801 (6.7%)
-    * Denver: 306,055 (82.8%)
-    * Jefferson: 38,855 (10.5%)
+* Arapahoe: 24,801 (6.7%)
+* Denver: 306,055 (82.8%)
+* Jefferson: 38,855 (10.5%)
 
 ### County with Best Turnout
 Denver county had the best turnout. 
-    * Votes cast: 306,055
-    * Percentage of total votes: 82.8%
+* Votes cast: 306,055
+* Percentage of total votes: 82.8%
 
 ###  Votes by Candidate
-    * Raymon Anthony Doane: 11,606 (3.1%) 
-    * Charles Casper Stockham: 85,213 (23.0%)
-    * Diana DeGette: 272,892 (73.8%)
+* Raymon Anthony Doane: 11,606 (3.1%) 
+* Charles Casper Stockham: 85,213 (23.0%)
+* Diana DeGette: 272,892 (73.8%)
 
 ###  Winning Candidate
 Diana DeGette was declared the winner. 
-    * Votes received: 272,892
-    * Percentage of total votes: 73.8%
+* Votes received: 272,892
+* Percentage of total votes: 73.8%
 
 ## Election Audit Summary 
 ### Overview
