@@ -20,13 +20,13 @@ iii.	The county voted in
 5.	Report the details to a text file that can be shared with the board of elections.
 
 Here is an example of the code showing how the candidate votes are initiated (the indented portion) and then how the votes are added.
-'''
-   For each row in the CSV file.
+   
+```
+    For each row in the CSV file.
     for row in reader:
        * Get the candidate name from each row.
         candidate_name = row[2]
-
-       * If the candidate does not match any existing candidate add it to the candidate list
+        * If the candidate does not match any existing candidate add it to the candidate list
         if candidate_name not in candidate_options:
 
             ** Add the candidate name to the candidate list.
@@ -37,7 +37,7 @@ Here is an example of the code showing how the candidate votes are initiated (th
 
         * Add a vote to that candidate's count
         candidate_votes[candidate_name] += 1
-'''
+ ```
 
 After the analysis is complete, the script also writes a summary showing the lists of candidates and counties with the number of votes cast and percentage of the vote. The file also lists the winner and states the county with the best turnout. 
 
