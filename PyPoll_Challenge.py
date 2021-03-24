@@ -8,7 +8,7 @@ import os
 # Add a variable to load a file from a path.
 #file_to_load = os.path.join("..", "Resources", "election_results.csv")
 
-#traceback error in file to load. I think it doesn't need the .. to go back up
+#Create a path for the data file. Note: it did not need the .. to go back up
 file_to_load = os.path.join("Resources", "election_results.csv")
 
 # Add a variable to save the file to a path.
