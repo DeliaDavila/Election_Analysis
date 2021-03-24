@@ -21,7 +21,7 @@ iii.	The county voted in
 
 Here is an example of the code showing how the candidate votes are initiated (the indented portion) and then how the votes are added.
 ‘‘‘
-   # For each row in the CSV file.
+   For each row in the CSV file.
     for row in reader:
         # Get the candidate name from each row.
         candidate_name = row[2]
@@ -83,6 +83,7 @@ I hope the Board of Elections is satisfied with the analysis. This script was wr
  
 ### Suggestions for future projects
 The current script would be ideal for similar elections at the county level, but could also be expanded for use in other elections. The scope could be easily adjusted to tabulate votes in multiple elections. The data would just need to include additional columns for those votes and I could add additional coding to make the script loop through those additional contests and report them in new sections. It is also possible to adjust the script to count votes for a city as well as a county level.
+
 And while I do not recommend engaging in partisan politics, I could report on votes gotten by different parties if the voting data included the party of the voters and/or the candidates. This, while it tends not to be terribly helpful in real life, would be helpful if the focus of the project were expanded to include national elections.
 
 
